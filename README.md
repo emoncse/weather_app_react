@@ -30,3 +30,7 @@ To run this application, you'll need to have Node.js and Yarn installed on your 
 ## Building for Production
 
 To create a production build, run:
+
+```
+yarn build
+```
